@@ -1,0 +1,1 @@
+Naive Bayes works well for streaming data

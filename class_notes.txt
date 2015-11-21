@@ -1,1 +1,3 @@
 Naive Bayes works well for streaming data
+
+C in logistic regression is like inverse of lambda in regularization

@@ -1,1 +1,3 @@
-Hi, my name is Shilpa. I have been applying machine learning algorithms on data from different fields like structures, machinery and finance. I'm working on this course by General Assembly, where I'm going to choose a topic and data source for course project. It is exciting to work on real world problems.
+# Final Project: Predicting star rating from Yelp reviews
+
+This work is for final project for General Assembly. It deals with predicting star rating the user would give based on the sentiment of review they wrote. This work uses sklearn and nltk libaries. I'm working towards refining the code and will be updating this repository with further work. Please go through the Star_rating_from_yelp_reviews.pdf file for current results.
